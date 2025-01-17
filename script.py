@@ -14,7 +14,7 @@ HISTORICAL_QUIZ_PATH = 'historical-quiz.json'
 OUTPUT_CSV_PATH = 'topic_performance_insights.csv'
 
 # Groq API configuration
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "[apikey]"
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
 # -------------------------------
